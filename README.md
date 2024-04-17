@@ -31,4 +31,4 @@ Atividade da +prati: Módulo 01 - Lista de Exercícios 01
 
   # Rodar a aplicação:
   $ node exXX.js
-  <br>XX é o número do exercício(01, 02, ..., 16)
+  <br>XX é o número do exercício(1, 2, ..., 16)
